@@ -1,2 +1,3 @@
-# IOS_project_2
-VUT FIT, IOS project #2, Synchronizace
+# IOS-project-2 (VUT FIT 2020/2021)
+## Operační systémy: Projekt 2 - Synchronizace
+
