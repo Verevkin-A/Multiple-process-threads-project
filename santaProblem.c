@@ -16,10 +16,9 @@
 
 #define mg 01777
 
-// VUT FIT 2020/2021
-// IOS Project 2
-// Aleksandr Verevkin (xverev00)
-
+// Aleksandr Verevkin (xverev00) 2021
+// Multiple process threads handling
+// Santa problem
 
 //project definings
 int elfs_cnt, rd_cnt, setting, printing, deers_ready, full_queue, santa_go_sleep, get_help, elfs_queue, christmas_started, state, christmas_str, flush;
